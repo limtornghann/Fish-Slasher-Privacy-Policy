@@ -2,6 +2,7 @@
 Privacy policy document for Fish Slasher
 
 Privacy Policy
+
 GREAT-IT built the Fish Slasher app as an Ad Supported app. This SERVICE is provided by GREAT-IT at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
